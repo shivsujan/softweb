@@ -465,7 +465,7 @@ product.html
       </div>
     </div>
     <footer>
-      <center>Designed and DEVELOPED BY MADESWARAN M(212223040194)</center>
+      <center>Designed and DEVELOPED BY SHIV SUJAN S R(212223040194)</center>
     </footer>
   </body>
 </html>
@@ -658,7 +658,7 @@ council.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY SHIV SUJAN S R(212223040194))</center>
+      <center>DESIGNED AND DEVELOPED BY SHIV SUJAN S R(212223040194)</center>
     </footer>
   </body>
 </html>
@@ -910,10 +910,9 @@ contact_us.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<IMG 1.png>)
-![alt text](<IMG 2-1.png>)
-![alt text](<IMG 3.png>)
-![alt text](<IMG 4.png>)
-
+![alt text](<Screenshot 2024-05-01 065341.png>)
+![alt text](<Screenshot 2024-05-01 065358.png>)
+![alt text](<Screenshot 2024-05-01 065409.png>)
+![alt text](<Screenshot 2024-05-01 065419.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
